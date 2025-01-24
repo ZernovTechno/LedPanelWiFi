@@ -12,7 +12,7 @@
 2. Запустить FlashDownloadTool.exe
 3. Выбрать ESP8266
 4. Залить LedPanelWiFi.bin по адресу 0x00
-5. Загрузить Data, используя инструкцию
+5. Загрузить Data, используя [инструкцию](https://github.com/vvip-68/LedPanelWiFi/wiki/Загрузка-данных-в-файловую-систему-МК)
 
 <a id="chapter-5"></a>
 ## Полезная информация
